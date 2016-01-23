@@ -1,1 +1,1 @@
-![Amok](./logo.svg)
+![Amok](https://cdn.rawgit.com/amokjs/media/master/logo.svg)
